@@ -26,19 +26,19 @@ projeto1 = {
 projeto2 = {
     titulo: 'Conversor',
     descricao: 'Descricao do conversor',
-    foto: 'conversor.png'
+    foto: 'conversor.PNG'
 }
 
 projeto3 = {
     titulo: 'Mentalista',
     descricao: 'Descricao do mentalista',
-    foto: 'mentalista.png'
+    foto: 'mentalista.PNG'
 }
 
 projeto4 = {
     titulo: 'Netflix',
     descricao: 'Descricao do netflix',
-    foto: 'netflix.png'
+    foto: 'netflix.PNG'
 }
 
 let projetos = [projeto1 , projeto2, projeto3, projeto4]
